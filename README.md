@@ -1,4 +1,6 @@
-# Atom
+# Atom: The Atomic Programming Development Environment.
+
+Before you "begin": please review https://docs.soliditylang.org/en/v0.8.32/index.html for incentive compatibility. - [my legal team]
 
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 
